@@ -1,0 +1,57 @@
+Job description
+Role & responsibilities
+
+
+
+Work with UX team to convert customer experience wireframes into react front end applications
+
+
+Participate in Solution Design
+
+
+Development, Migrate angular application into react framework
+
+
+Complete required project/capex documentation
+
+
+Provide insights and recommendations from past experience
+
+
+
+
+
+Preferred candidate profile
+
+
+Must-Have
+
+
+
+- Developing SPA in ReactJS, with good experience integrating with Rest Services, Redux, Hooks
+
+- Good experience with karma/jasmine test automation frameworks.
+
+- Good hands-on exp in HTML, CSS, Javascript
+
+
+
+Good-to-Have
+
+
+
+- Experience developing multitenant and multilingual application is a plus
+
+Good experience working in agile scrum teams
+
+
+
+Role: Front End Developer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
